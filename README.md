@@ -19,8 +19,13 @@
 
 Repositori ini merupakan arsip pembelajaran dan proyek selama mengikuti **Pelatihan Pengembangan Web menggunakan Node.js, React.js, dan MySQL** di **BBPVP Bekasi (Balai Besar Pelatihan Vokasi dan Produktivitas Bekasi)**, lembaga pelatihan vokasi nasional di bawah **Kementerian Ketenagakerjaan Republik Indonesia (KEMNAKER RI)**.
 
-Pelatihan berlangsung dari **14 Oktober hingga 9 Desember 2025** selama **41 hari kerja (363 jam pelatihan)**.  
-Kegiatan dilaksanakan setiap hari **Senin hingga Jumat**, pukul **08.00–17.00 WIB**, mengikuti jam kerja industri untuk membiasakan peserta dengan ritme profesional.
+Pelatihan berlangsung dalam periode **14 Oktober – 12 Desember 2025**, dengan total **41 hari kerja efektif (363 jam pelatihan)**.  
+Kegiatan dilaksanakan **Senin hingga Jumat**, pukul **08.00–17.00 WIB**, mengikuti jam kerja industri.  
+**Khusus hari orientasi**, kegiatan berlangsung **08.00–11.00 WIB**.
+
+> 📌 **Catatan jeda (12–14 November 2025):**  
+> Setelah sesi tatap muka berakhir pada **Selasa, 11 November 2025**, terdapat jeda **Rabu–Jumat, 12–14 November 2025** yang digunakan untuk **persiapan Uji Kompetensi** (review materi, perapihan proyek/portofolio, administrasi, dan pembekalan).  
+> Jeda ini juga memastikan fase **OJT dimulai pada hari kerja awal pekan (Senin, 17 November 2025)** agar ritme kerja di industri lebih terstruktur.
 
 Pelatihan dibagi menjadi empat tahap utama:
 
@@ -29,16 +34,23 @@ Pelatihan dibagi menjadi empat tahap utama:
    🕗 08.00–11.00 WIB  
 
 2. **Pelatihan Online**  
-   📅 15–20 Oktober 2025 (4 hari kerja efektif)  
+   📅 15–20 Oktober 2025 (**4 hari kerja efektif**)  
    💻 Materi dasar JavaScript, HTML, CSS, serta konsep web modern.  
+   📌 *Rentang tanggal mencakup akhir pekan; sesi efektif berlangsung pada hari kerja.*
 
 3. **Pelatihan Tatap Muka (Offline di BBPVP Bekasi)**  
-   📅 21 Oktober – 11 November 2025 (16 hari kerja)  
-   🏫 Pendalaman Node.js, React.js, REST API, dan pengembangan aplikasi CRUD berbasis proyek menggunakan MySQL.  
+   📅 21 Oktober – 11 November 2025 (**16 hari kerja**)  
+   🏫 Pendalaman Node.js, React.js, REST API, dan pengembangan aplikasi CRUD berbasis proyek menggunakan MySQL.
 
 4. **On the Job Training (OJT / Praktek Kerja Lapangan)**  
-   📅 17 November – 9 Desember 2025 (20 hari kerja)  
-   🧰 Peserta menerapkan kompetensi web development langsung di industri untuk memperoleh pengalaman kerja nyata.
+   📅 17 November – 12 Desember 2025 (**20 hari kerja**)  
+   🧰 Peserta menerapkan kompetensi web development langsung di industri untuk memperoleh pengalaman kerja nyata.  
+   📌 Fokus kegiatan umumnya meliputi:
+   - Implementasi fitur aplikasi berbasis kebutuhan pengguna (task/issue-based)
+   - Integrasi REST API & database (MySQL) untuk kebutuhan CRUD
+   - Perbaikan bug, refactoring, dan peningkatan kualitas kode
+   - Dokumentasi teknis (README, setup, endpoint/API docs) dan pelaporan progres (logbook)
+   - (Jika relevan) deployment/maintenance dasar menggunakan **WHM & cPanel**
 
 ---
 
@@ -46,8 +58,13 @@ Pelatihan dibagi menjadi empat tahap utama:
 
 This repository documents my learning journey and project work during the **Web Development Training Program (Node.js, React.js, & MySQL)** at **BBPVP Bekasi (Center for Vocational and Productivity Training)**, managed by the **Ministry of Manpower of the Republic of Indonesia (KEMNAKER RI)**.
 
-The training ran from **October 14 to December 9, 2025**, totaling **41 effective weekdays (363 training hours)**.  
-It was held **Monday to Friday, from 08:00 to 17:00 WIB**, following standard industry hours to simulate a professional work environment.
+The program ran during **October 14 – December 12, 2025**, totaling **41 effective weekdays (363 training hours)**.  
+Sessions were held **Monday to Friday, 08:00–17:00 WIB**, following standard industry hours.  
+**Orientation day only** was held **08:00–11:00 WIB**.
+
+> 📌 **Gap note (Nov 12–14, 2025):**  
+> After the on-site sessions ended on **Tuesday, November 11, 2025**, there was a gap on **Wednesday–Friday, November 12–14, 2025** dedicated to **Competency Test preparation** (material review, project/portfolio polishing, administrative tasks, and briefing).  
+> This gap also ensured that the **OJT phase started on a Monday (November 17, 2025)** to align with a structured workplace schedule.
 
 The program was divided into four main phases:
 
@@ -56,16 +73,23 @@ The program was divided into four main phases:
    🕗 08:00–11:00 WIB  
 
 2. **Online Training**  
-   📅 October 15–20, 2025 (4 weekdays)  
+   📅 October 15–20, 2025 (**4 effective weekdays**)  
    💻 Focused on JavaScript fundamentals, HTML, CSS, and modern web concepts.  
+   📌 *The date range includes a weekend; sessions took place on weekdays only.*
 
 3. **Offline Training (On-site at BBPVP Bekasi)**  
-   📅 October 21 – November 11, 2025 (16 weekdays)  
-   🏫 Covered Node.js, React.js, REST API, and CRUD application development using MySQL through project-based learning.  
+   📅 October 21 – November 11, 2025 (**16 weekdays**)  
+   🏫 Covered Node.js, React.js, REST API, and CRUD application development using MySQL through project-based learning.
 
 4. **On the Job Training (OJT)**  
-   📅 November 17 – December 9, 2025 (20 weekdays)  
-   🧰 Practical industry placement applying web development skills in real work environments.
+   📅 November 17 – December 12, 2025 (**20 weekdays**)  
+   🧰 Practical industry placement applying web development skills in real work environments.  
+   📌 Typical activities included:
+   - Delivering features based on task/issue assignments
+   - Integrating REST APIs and MySQL database (CRUD)
+   - Bug fixing, refactoring, and code quality improvements
+   - Technical documentation (README, setup guide, API docs) and progress reporting (logbook)
+   - (If applicable) basic deployment/maintenance using **WHM & cPanel**
 
 ---
 
