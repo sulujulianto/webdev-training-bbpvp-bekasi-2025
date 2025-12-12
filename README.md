@@ -138,4 +138,4 @@ Ucapan terima kasih juga ditujukan kepada rekan peserta pelatihan atas kolaboras
 
 ## 📌 Note
 
-This repository serves as a personal portfolio documenting my growth and hands-on learning throughout the **BBPVP Bekasi Web Development Training**—covering online sessions, on-site training, and the **On the Job Training (OJT)** phase, including collaborative development with **Git** and deployment/hosting practices on a **VPS (WHM & cPanel)**.
+This repository serves as a personal portfolio documenting my growth and hands-on learning throughout the **BBPVP Bekasi Web Development Training** covering online sessions, on-site training, and the **On the Job Training (OJT)** phase, including collaborative development with **Git** and deployment/hosting practices on a **VPS (WHM & cPanel)**.
