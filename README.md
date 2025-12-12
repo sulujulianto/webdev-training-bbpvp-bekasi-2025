@@ -23,8 +23,8 @@ Pelatihan berlangsung dalam periode **14 Oktober – 12 Desember 2025**, dengan 
 Kegiatan dilaksanakan **Senin hingga Jumat**, pukul **08.00–17.00 WIB**, mengikuti jam kerja industri.  
 **Khusus hari orientasi**, kegiatan berlangsung **08.00–11.00 WIB**.
 
-> 📌 **Catatan jeda (12–14 November 2025):**  
-> Setelah sesi tatap muka berakhir pada **Selasa, 11 November 2025**, terdapat jeda **Rabu–Jumat, 12–14 November 2025** untuk **persiapan Uji Kompetensi** (review materi, perapihan proyek/portofolio, administrasi, dan pembekalan).  
+> 📌 **Catatan jeda (12 – 14 November 2025):**  
+> Setelah sesi tatap muka berakhir pada **Selasa, 11 November 2025**, terdapat jeda **Rabu – Jumat, 12 – 14 November 2025** untuk **persiapan Uji Kompetensi** (review materi, perapihan proyek/portofolio, administrasi, dan pembekalan).  
 > Jeda ini juga memastikan fase **OJT dimulai pada hari kerja awal pekan (Senin, 17 November 2025)** agar ritme kerja di industri lebih terstruktur.
 
 Pelatihan dibagi menjadi empat tahap utama:
@@ -66,8 +66,8 @@ The program ran during **October 14 – December 12, 2025**, totaling **41 effec
 Sessions were held **Monday to Friday, 08:00–17:00 WIB**, following standard industry hours.  
 **Orientation day only** was held **08:00–11:00 WIB**.
 
-> 📌 **Gap note (Nov 12–14, 2025):**  
-> After the on-site sessions ended on **Tuesday, November 11, 2025**, there was a gap on **Wednesday–Friday, November 12–14, 2025** dedicated to **Competency Test preparation** (material review, project/portfolio polishing, administrative tasks, and briefing).  
+> 📌 **Gap note (Nov 12 – 14, 2025):**  
+> After the on-site sessions ended on **Tuesday, November 11, 2025**, there was a gap on **Wednesday – Friday, November 12 – 14, 2025** dedicated to **Competency Test preparation** (material review, project/portfolio polishing, administrative tasks, and briefing).  
 > This gap also ensured that the **OJT phase started on a Monday (November 17, 2025)** to align with a structured workplace schedule.
 
 The program was divided into four main phases:
@@ -116,7 +116,7 @@ The program was divided into four main phases:
 - Git workflow (**commit / push / pull / branching / merge**)
 - Deployment & hosting on **VPS** using **WHM & cPanel**
 
-> 💡 *This program emphasized a SQL-based full-stack approach—combining Node.js, Express, React, and relational databases. The training phase used MySQL, while the OJT phase used PostgreSQL based on workplace standards.*
+> 💡 *This program emphasized a SQL-based full-stack approach combining Node.js, Express, React, and relational databases. The training phase used MySQL, while the OJT phase used PostgreSQL based on workplace standards.*
 
 ---
 
